@@ -94,7 +94,7 @@ dotnet build
 ## 📸 Subida de imágenes
 
 Las imágenes de propiedades y propietarios se almacenan en Google Cloud Storage. Las URLs públicas se guardan en MongoDB como parte de las entidades.
----
+
 
 ## 🔧 Principales patrones implementados
 
